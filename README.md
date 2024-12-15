@@ -9,7 +9,9 @@
 
 - 🔭 I’m currently working on [CSMS Client](https://github.com/jmsjcmc/CSMS.git)
 
-- 🌱 I’m currently learning **Angular and .Net**
+- 🌱 I’m currently learning **Angular, .Net, React, Django, Docker, Rust, MongoDb**
+
+- and [CSMS Backend](https://github.com/jmsjcmc/Csm-api.git)
 
 - 📫 How to reach me **tabilogjamesjecemeco@gmail.com**
 
@@ -26,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmsjcmc&show_icons=true&locale=en" alt="jmsjcmc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmsjcmc&" alt="jmsjcmc" /></p>
-
