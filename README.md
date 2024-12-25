@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm James Jecemeco A. Tabilog, a 23-year-old Full Stack Software Developer with a passion for exploring and learning new things, especially in the world of coding and technology. I love diving into challenges, discovering innovative solutions, and continually improving my skills in software development. My curiosity drives me to explore new tools, frameworks, and concepts that can help me grow both personally and professionally.
+Hi! I'm James Jecemeco A. Tabilog, a Full Stack Software Developer.
 
 
 # 💻 Tech Stack:
