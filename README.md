@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm James Jecemeco A. Tabilog, a Full Stack Software Developer.
+Hi! I'm Jem, a Full Stack Software Developer.
 
 
 # 💻 Tech Stack:
@@ -12,7 +12,7 @@ Hi! I'm James Jecemeco A. Tabilog, a Full Stack Software Developer.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jmsjcmc&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
