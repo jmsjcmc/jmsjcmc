@@ -3,7 +3,7 @@ Hi! I'm Jem, a Full Stack Software Developer.
 
 
 # 💻 Tech Stack:
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=alpinejs,angular,cs,cloudflare,css,django,docker,dotnet,express,firebase,flutter,git,html,js,jquery,laravel,less,mongodb,mysql,nextjs,nodejs,php,postgres,react,sass,spring,sqlite,tailwind,ts,vite,wordpress,)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jmsjcmc&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jmsjcmc&theme=dracula&hide_border=false)<br/>
