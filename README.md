@@ -8,7 +8,7 @@ Hi! I'm Jem, a Full Stack Developer.
 ![](https://github-readme-stats.vercel.app/api?username=jmsjcmc&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jmsjcmc&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmsjcmc&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmsjcmc&layout=pie&theme=dracula)](https://github.com/jmsjcmc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmsjcmc&layout=pie&theme=dracula count=10)](https://github.com/jmsjcmc/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jmsjcmc&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
