@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Jem, a Full Stack Software Developer.
+Hi! I'm Jem, a Full Stack Developer.
 
 
 # 💻 Tech Stack:
