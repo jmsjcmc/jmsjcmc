@@ -20,5 +20,5 @@ Hi! I'm Jem, a Full Stack Developer.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jmsjcmc&icon=5&color=0)](https://visitcount.itsvg.in)
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=jmsjcmc)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
