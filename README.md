@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Jem, a full-stack developer who codes every night from 6 to 8:30 (yep, even on Sundays!). Laravel was the first framework I got into, so most of my projects are built with it. Right now, I'm diving into Flutter and React to level up my skills.
+I'm Jem, a Full-stack Developer. Laravel was the first framework I got into, so most of my projects are built with it. Right now, I'm diving into Flutter and React to level up my skills.
 
 
 # 💻 Tech Stack:
