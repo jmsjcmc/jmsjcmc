@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: https://github.com/jmsjcmc/jmsjcmc/blob/6b1549ef0c102ef91d0b22a5cdf600beed97fe93/octocat-1735725405617.png
 I'm Jem, a Full-Stack Developer. Lately, I've been exploring Flutter and React to expand my skill set and take on new challenges.
 
 
