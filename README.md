@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Jem, a full-stack developer with a solid foundation in Laravel—most of my projects are built with it since it was the first framework I mastered. Lately, I've been exploring Flutter and React to expand my skill set and take on new challenges.
+I'm Jem, a Full-Stack Developer. Lately, I've been exploring Flutter and React to expand my skill set and take on new challenges.
 
 
 # 💻 Tech Stack:
