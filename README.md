@@ -1,7 +1,8 @@
 # 💫 About Me:
 I'm Jem, a Full-Stack Developer.
 <br></br>
-Coding Time
+<span class="font-bold">Coding Time</span>
+<br></br>
 6:00 PM - 8:30 PM 
 
 
