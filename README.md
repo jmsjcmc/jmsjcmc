@@ -1,11 +1,7 @@
 # 💫 About Me:
-I'm a Full-Stack Developer.
-<br></br>
+
 Time is gold
-<br></br>
-<span class="font-bold">Coding Time</span>
-<br></br>
-6:00 PM - 8:30 PM 
+
 
 
 # 💻 Tech Stack:
