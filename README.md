@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm Jem, a Full-Stack Developer.
+I'm a Full-Stack Developer.
+<br></br>
+Time is gold
 <br></br>
 <span class="font-bold">Coding Time</span>
 <br></br>
