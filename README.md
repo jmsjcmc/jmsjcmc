@@ -12,7 +12,7 @@ Time is gold
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jmsjcmc&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-![](https://github-trophies.vercel.app/?username=jmsjcmc)
+![](https://github-trophies.vercel.app/?username=jmsjcmc&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
