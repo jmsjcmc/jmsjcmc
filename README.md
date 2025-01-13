@@ -1,5 +1,6 @@
 # 💫 About Me:
-
+![tumblr_owi25v6uAo1r4gsiio1_1280_gif (1000×300)](https://github.com/user-attachments/assets/5299e153-f045-46f2-a9fc-46cb47dda3a4)
+<br></br>
 Time is gold
 
 
