@@ -10,7 +10,7 @@ Time is gold
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jmsjcmc&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmsjcmc&theme=dracula&count=10&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<figure><embed src="https://wakatime.com/share/@jmsjcmc/ff085134-9ded-4dbe-8742-626b5d21ed0e.svg"></embed></figure>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=jmsjcmc&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
