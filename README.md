@@ -7,7 +7,7 @@ Time is gold
 
 # 💻 Tech Stack:
 ## ☁ Cloud [🔝](#menu)
- ![image]({https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white})
+ ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jmsjcmc&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmsjcmc&theme=dracula&count=10&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
