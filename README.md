@@ -68,6 +68,9 @@ Time is gold
     
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jmsjcmc&theme=dracula&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jmsjcmc)](https://git.io/streak-stats)
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=jmsjcmc&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
