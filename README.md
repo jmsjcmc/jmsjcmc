@@ -3,9 +3,6 @@
 <br></br>
 ## ***Time is gold***
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jmsjcmc)](https://git.io/streak-stats)
-
-
 # 💻 Tech Stack:
 ## ☁ Cloud 
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
