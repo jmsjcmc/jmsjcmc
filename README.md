@@ -1,7 +1,5 @@
 
 
----
-
 # 💫 About Me
 
 ![Header](https://github.com/user-attachments/assets/5299e153-f045-46f2-a9fc-46cb47dda3a4)
