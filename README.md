@@ -6,7 +6,6 @@
 
 ![Header](https://github.com/user-attachments/assets/5299e153-f045-46f2-a9fc-46cb47dda3a4)
 
-Hi! I'm **Jem**, a passionate backend developer currently focused on building scalable and secure web applications using **C#** and **.NET**. I enjoy solving problems, optimizing performance, and learning new technologies that improve how systems work under the hood.
 
 ---
 
