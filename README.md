@@ -6,18 +6,6 @@ Currently, my goal is to deepen my expertise in the .NET ecosystem, improve syst
 
 ---
 
-## ⏳ Coding Schedule
-
-**🕰️ Because time is gold...**
-
-| Day          | Time              |
-|--------------|-------------------|
-| **Weekdays** | 6:00 PM – 9:00 PM |
-| **Saturdays**| 6:00 PM – 9:00 PM |
-| **Sundays**  | 1:00 PM – 9:00 PM |
-
----
-
 ## 🔥 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jmsjcmc&theme=dracula&border_radius=0&date_format=M%20j%5B%2C%20Y%5D)
