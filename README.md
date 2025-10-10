@@ -18,8 +18,6 @@ Currently, my goal is to deepen my expertise in the .NET ecosystem, improve syst
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jmsjcmc&icon=0&color=0)](https://visitcount.itsvg.in)
----
 
 # 💻 Tech Stack
 
