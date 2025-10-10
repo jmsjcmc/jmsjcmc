@@ -8,7 +8,6 @@ Currently, my goal is to deepen my expertise in the .NET ecosystem, improve syst
 
 ## 🔥 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=jmsjcmc&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jmsjcmc&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmsjcmc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
