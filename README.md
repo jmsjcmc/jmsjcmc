@@ -14,10 +14,6 @@ Currently, my goal is to deepen my expertise in the .NET ecosystem, improve syst
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jmsjcmc&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 ---
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 # 💻 Tech Stack
 
