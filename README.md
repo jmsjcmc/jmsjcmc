@@ -10,9 +10,7 @@ Currently, my goal is to deepen my expertise in the .NET ecosystem, improve syst
 
 ![](https://nirzak-streak-stats.vercel.app/?user=jmsjcmc&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmsjcmc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
----
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jmsjcmc&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 ---
 
 # 💻 Tech Stack
