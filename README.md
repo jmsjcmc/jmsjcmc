@@ -97,29 +97,6 @@ currently_learning: "Something awesome"
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jmsjcmc&theme=dracula&no-frame=true&column=7)](https://github.com/jcmcjms)
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/jcmcjms">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jmsjcmc&repo=REPO_NAME&theme=dracula&hide_border=true" alt="Featured Project" />
-</a>
-
-</div>
-
-> 💡 **Tip:** Replace `REPO_NAME` above with your actual repository name to showcase your best work!
 
 ---
 
